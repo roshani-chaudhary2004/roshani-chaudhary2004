@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Roshani Chaudhary</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img  align="right"  alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"  />
+<img  align="right"  alt="coding" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif"  />
 
 
 
